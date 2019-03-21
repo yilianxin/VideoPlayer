@@ -1,0 +1,7 @@
+```java
+pubic class aaa()
+{
+
+
+}
+```
